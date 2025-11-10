@@ -6,6 +6,10 @@
     text-decoration: none;
     list-style: none;
   }
+body{
+    height:100vh;
+    width:100vw;
+}
   
   span {
     color: orangered;
@@ -669,3 +673,4 @@ body {
   }
 }
   
+
