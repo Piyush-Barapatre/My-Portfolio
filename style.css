@@ -5,7 +5,6 @@
     font-family: 'Poppins', sans-serif;
     text-decoration: none;
     list-style: none;
-    overflow-x: hidden;
   }
 body{
     height:100vh;
@@ -674,6 +673,7 @@ body {
   }
 }
   
+
 
 
 
