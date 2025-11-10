@@ -85,7 +85,7 @@ body{
     background: rgb(241, 241, 241);
     flex-direction: row;
     align-items: center;
-    gap: 7em;
+    gap: 5em;
     padding: 30px 12% 0;
   }
   
@@ -93,14 +93,14 @@ body{
     max-width: 800px;
   }
   .home-content h3 {
-    font-size: 42px;
+    font-size: 38px;
   }
   .home-content h1 {
-    font-size: 62px;
+    font-size: 56px;
     line-height: 1.2;
   }
   .home-content p {
-    font-size: 18px;
+    font-size: 14px;
     margin: 25px 0 30px;
   }
   
@@ -673,6 +673,7 @@ body {
   }
 }
   
+
 
 
 
