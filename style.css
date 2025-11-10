@@ -91,6 +91,7 @@ body{
   
   .home-content {
     max-width: 800px;
+      margin-top: 1em;
   }
   .home-content h3 {
     font-size: 5em;
@@ -673,6 +674,7 @@ body {
   }
 }
   
+
 
 
 
