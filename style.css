@@ -87,11 +87,11 @@ body{
     align-items: center;
     gap: 5em;
     padding: 30px 12% 0;
+    padding-top: 2em;
   }
   
   .home-content {
     max-width: 800px;
-      margin-top: 1em;
   }
   .home-content h3 {
     font-size: 5em;
@@ -674,6 +674,7 @@ body {
   }
 }
   
+
 
 
 
