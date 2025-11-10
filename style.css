@@ -93,14 +93,14 @@ body{
     max-width: 800px;
   }
   .home-content h3 {
-    font-size: 38px;
+    font-size: 5em;
   }
   .home-content h1 {
-    font-size: 56px;
+    font-size: 7em;
     line-height: 1.2;
   }
   .home-content p {
-    font-size: 14px;
+    font-size: 1em;
     margin: 25px 0 30px;
   }
   
@@ -673,6 +673,7 @@ body {
   }
 }
   
+
 
 
 
